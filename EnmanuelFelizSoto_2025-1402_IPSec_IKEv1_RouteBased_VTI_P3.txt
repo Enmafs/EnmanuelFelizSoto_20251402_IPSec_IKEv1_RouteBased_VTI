@@ -1,7 +1,7 @@
 ! ============================================================
 ! VPN Lab 02 - IPSec IKEv1 Route-Based (VTI)
 ! Static VTI + Rutas Estaticas
-! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 2-1C
+! Enmanuel Feliz Soto | Matricula: 2025-1402 | Seccion 5
 ! ITLA - Seguridad en Redes
 ! ============================================================
 
