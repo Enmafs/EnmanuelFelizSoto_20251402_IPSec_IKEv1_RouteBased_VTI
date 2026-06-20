@@ -59,7 +59,7 @@ VPN basada en rutas usando VTI. Más flexible que Policy-Based, permite routing 
 ## ⚙️ Configuración
 
 El script completo de configuración se encuentra en:  
-📄 [`Lab02_IPSec_IKEv2_RouteBased_VTI.txt`](./Lab03_IPSec_IKEv2_RouteBased_VTI.txt)
+📄 [`Lab03_IPSec_IKEv2_RouteBased_VTI.txt`](./Lab03_IPSec_IKEv2_RouteBased_VTI.txt)
 
 ### Parámetros IKE/IPSec
 
