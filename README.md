@@ -1,4 +1,4 @@
-# 🔐 Lab 03 — IPSec IKEv2 — Route-Based (VTI)
+# 🔐 Lab 02 — IPSec IKEv2 — Route-Based (VTI)
 
 **Estudiante:** Enmanuel Feliz Soto | **Matrícula:** 2025-1402  
 **Institución:** Instituto Tecnológico de Las Américas (ITLA)  
