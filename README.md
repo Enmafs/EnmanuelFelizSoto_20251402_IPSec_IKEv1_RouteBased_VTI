@@ -23,7 +23,8 @@ VPN basada en rutas usando VTI. Más flexible que Policy-Based, permite routing 
 
 ## 🗺️ Topología
 
-> 📸 **[INSERTAR CAPTURA DE TOPOLOGÍA AQUÍ]**
+> 📸 <img width="1191" height="647" alt="Captura de pantalla 2026-06-24 120545" src="https://github.com/user-attachments/assets/a3c5e6b3-95d7-4202-9e42-12c2a176c766" />
+
 
 <!-- Coloca aquí el screenshot de PNetLab con la topología del Lab 02 -->
 
@@ -91,9 +92,6 @@ show crypto isakmp sa
 ```
 show crypto ipsec sa
 ```
-```
-show interface Tunnel0
-```
 
 ### 3. Prueba de conectividad
 ```
@@ -104,17 +102,20 @@ ping 14.2.10.2 source 14.2.10.1
 
 ## 📸 Capturas de Verificación
 
-> 📸 **[INSERTAR CAPTURA: show crypto isakmp sa]**
+> 📸 <img width="414" height="114" alt="image" src="https://github.com/user-attachments/assets/8f9cd7bf-b780-4bc2-800e-c9224f0d5191" />
+
+
 
 <!-- Captura mostrando el estado QM_IDLE / ESTABLISHED -->
 
-> 📸 **[INSERTAR CAPTURA: show crypto ipsec sa]**
+> 📸 <img width="597" height="407" alt="image" src="https://github.com/user-attachments/assets/fd3c3c0e-9f30-4a7d-9df5-aab28e0f25ce" />
+
+
 
 <!-- Captura mostrando pkts encaps/decaps incrementando -->
 
-> 📸 **[INSERTAR CAPTURA: ping exitoso]**
+> 📸 <img width="727" height="466" alt="image" src="https://github.com/user-attachments/assets/ec29628e-0e19-449e-8107-7a4480bac9db" />
 
-<!-- Captura del ping source 10.14.11.0/24 -->
 
 ---
 
