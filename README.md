@@ -23,7 +23,7 @@ VPN basada en rutas usando VTI. Más flexible que Policy-Based, permite routing 
 
 ## 🗺️ Topología
 
-> 📸 <img width="1191" height="647" alt="Captura de pantalla 2026-06-24 120545" src="https://github.com/user-attachments/assets/a3c5e6b3-95d7-4202-9e42-12c2a176c766" />
+> 📸 <img width="1472" height="805" alt="Captura de pantalla 2026-06-21 154657" src="https://github.com/user-attachments/assets/7c97af5a-e731-4cc6-a4ee-d713bd507d34" />
 
 
 <!-- Coloca aquí el screenshot de PNetLab con la topología del Lab 02 -->
